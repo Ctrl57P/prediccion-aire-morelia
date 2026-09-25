@@ -10,3 +10,6 @@ Desarrollar un modelo de predicción que permita anticipar los niveles de contam
 
 ## Idea de implementacion
 <img width="3508" height="2480" alt="imagen" src="https://github.com/user-attachments/assets/d00ecbf2-e7da-46d6-933c-2b3a84f95c2a" />
+
+## Modelado
+<img width="3508" height="2480" alt="modelado" src="https://github.com/user-attachments/assets/b2ea56b3-63ce-42db-be66-7a05d17ba00a" />
